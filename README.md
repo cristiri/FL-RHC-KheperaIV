@@ -21,6 +21,6 @@ The code implements a Bluetooth client that sends velocity commands to the robot
 - Connect KheperaIV to the host machine through Bluetooth and set the right port on the script "Khepera_iv_FL_RHC_traj_track.m".
 - Run the Bluetooth server on the KheperaIV side and then, run the script Khepera_iv_FL_RHC_traj_track.m
 
-# Video 
+# Videos
 - https://www.youtube.com/watch?v=A0Tlbgr08tY&ab_channel=PreCySeGroup
 - https://www.youtube.com/watch?v=L3wmg-pHx_4&list=PLh-6B_s-jPuT8RTDOJM96GXu4y1IBIeoC&ab_channel=PreCySeGroup
